@@ -3,3 +3,4 @@
 - [IBM - Historia Microservicios](https://developer.ibm.com/es/depmodels/microservices/articles/cl-evolution-microservices-patterns/)
 - [RedHat -  SOA](https://www.redhat.com/es/topics/cloud-native-apps/what-is-service-oriented-architecture)
 - [BBVA - APIS REST](https://www.bbvaapimarket.com/es/mundo-api/api-rest-que-es-y-cuales-son-sus-ventajas-en-el-desarrollo-de-proyectos/)
+- [REDHAT - DIFERENCIA entre rest y soap](https://www.redhat.com/es/topics/integration/whats-the-difference-between-soap-rest)
