@@ -6,3 +6,4 @@
 - [REDHAT - DIFERENCIA entre rest y soap](https://www.redhat.com/es/topics/integration/whats-the-difference-between-soap-rest)
 - [REST VS SOAP TABLA COMPARATIVA](https://www.chakray.com/es/que-diferencias-hay-entre-rest-y-soap/)
 - [API FIRST DESIGN](https://swagger.io/resources/articles/adopting-an-api-first-approach/)
+- [Oracle SOA](https://docs.oracle.com/es/solutions/learn-architect-microservice/index.html#GUID-BDCEFE30-C883-45D5-B2E6-325C241388A5)
