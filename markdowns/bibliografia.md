@@ -4,3 +4,4 @@
 - [RedHat -  SOA](https://www.redhat.com/es/topics/cloud-native-apps/what-is-service-oriented-architecture)
 - [BBVA - APIS REST](https://www.bbvaapimarket.com/es/mundo-api/api-rest-que-es-y-cuales-son-sus-ventajas-en-el-desarrollo-de-proyectos/)
 - [REDHAT - DIFERENCIA entre rest y soap](https://www.redhat.com/es/topics/integration/whats-the-difference-between-soap-rest)
+- [REST VS SOAP TABLA COMPARATIVA](https://www.chakray.com/es/que-diferencias-hay-entre-rest-y-soap/)
