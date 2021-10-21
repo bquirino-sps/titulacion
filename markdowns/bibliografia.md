@@ -2,3 +2,8 @@
 - [BBVA - Nacimiento de las APIS](https://www.bbvaapimarket.com/es/mundo-api/breve-historia-de-las-apis-del-comercio-electronico-la-era-movil/#:~:text=M%C3%A1s%20all%C3%A1%20de%20este%20primer,un%20grupo%20selecto%20de%20desarrolladores.)
 - [IBM - Historia Microservicios](https://developer.ibm.com/es/depmodels/microservices/articles/cl-evolution-microservices-patterns/)
 - [RedHat -  SOA](https://www.redhat.com/es/topics/cloud-native-apps/what-is-service-oriented-architecture)
+- [BBVA - APIS REST](https://www.bbvaapimarket.com/es/mundo-api/api-rest-que-es-y-cuales-son-sus-ventajas-en-el-desarrollo-de-proyectos/)
+- [REDHAT - DIFERENCIA entre rest y soap](https://www.redhat.com/es/topics/integration/whats-the-difference-between-soap-rest)
+- [REST VS SOAP TABLA COMPARATIVA](https://www.chakray.com/es/que-diferencias-hay-entre-rest-y-soap/)
+- [API FIRST DESIGN](https://swagger.io/resources/articles/adopting-an-api-first-approach/)
+- [Oracle SOA](https://docs.oracle.com/es/solutions/learn-architect-microservice/index.html#GUID-BDCEFE30-C883-45D5-B2E6-325C241388A5)
